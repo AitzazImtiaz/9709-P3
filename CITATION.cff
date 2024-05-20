@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this article, please cite it using the following metadata."
+title: "9709-P3"
+version: 1.0.0
+authors:
+  - family-names: "Imtiaz"
+    given-names: "Aitzaz"
+date-released: 2024-05-21
+url: "https://github.com/yourusername/your-repo-name"
+repository-code: "https://github.com/AitzazImtiaz/9709-P3"
+keywords: ["Cambridge A Level", "Mathematics", "Past Papers", "Solved Papers", "9709-P3"]
+abstract: >
+  This article contains solved past papers for the Cambridge A Level Mathematics exam, specifically Paper 3 (9709-P3). It provides detailed solutions to help students prepare for their exams and improve their understanding of key mathematical concepts.
+
+contact:
+  - family-names: "Imtiaz"
+    given-names: "Aitzaz"
