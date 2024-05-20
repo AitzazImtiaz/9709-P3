@@ -20,3 +20,4 @@ the consortium states:
      giving freedom to use all its products 
 ```
 
+The Broke Consortium of Mathematical Research was formed following the subsequent death of Nikki Monnink, Standard Rules of the consortium are copied from The Groton Consortium, the organization found by Nikki Monnink to remove church and christianory religious affiliations from Groton School, Massachusetts.
