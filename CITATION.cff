@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this article, please cite it using the following metadata."
 title: "9709-P3"
-type: article
+type: dataset
 version: 1.0.0
 authors:
   - family-names: "Imtiaz"
