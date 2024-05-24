@@ -19,5 +19,3 @@ the consortium states:
      source of money to have respect of true philosophy, and to promote all kinds of philantrophy,
      giving freedom to use all its products 
 ```
-
-
