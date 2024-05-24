@@ -15,7 +15,7 @@ producer for these past papers.
 The repository is owned by The Broke Consortium of Mathematical Research. Standard Rule 2 of
 the consortium states:
 
- (2) The consortium will never associate itself to money making means, trying to attain any
-     source of money to have respect of true philosophy, and to promote all kinds of philantrophy,
-     giving freedom to use all its products 
+(2) The consortium will never associate itself to money making means, trying to attain any
+    source of money to have respect of true philosophy, and to promote all kinds of philantrophy,
+    giving freedom to use all its products 
 ```
