@@ -1,3 +1,4 @@
+<p align="center"><img align="center" src="Monnink.jpg" alt="Profile Picture" width="300" height="300"><br>For Nikki Monnink (aged 14)<br>(Nikki at Twente) </p>
 
 ### Copyright Declaration
 ```
